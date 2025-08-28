@@ -1,4 +1,4 @@
-# 🏨 AtliQ Hotels Data Analysis
+# 🏨 Hospitality Data Analysis Project
 
 ## 📌 Project Overview
 This project focuses on analyzing hotel booking data of **AtliQ Hotels** to uncover key business insights.  
